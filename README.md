@@ -1,5 +1,5 @@
 # myApp
-This application is a combined UI/Server side project. Provides health monitoring, stats, runtime statistcis and Rest API latency statistics.
+This application is a combined UI/Server side project. Provides health monitoring, resource stats, runtime stats and Rest API latency stats.
 
 ## Development
 
