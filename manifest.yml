@@ -1,0 +1,6 @@
+---
+applications:
+- name: eureka-ui-client
+  memory: 1G 
+  random-route: true
+  path: ./target/my-app-0.0.1-SNAPSHOT.war
